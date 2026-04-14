@@ -1,7 +1,7 @@
 Accessing Climate DT Data
 =========================
 
-The data from Climate DT simulations visualized in this dashboard can also be accessed directly for analysis.
+The data from Climate DT simulations visualized in this service can also be accessed directly for analysis.
 
 Polytope
 --------
