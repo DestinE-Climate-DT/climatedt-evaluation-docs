@@ -1,6 +1,6 @@
 from datetime import date
 
-project = 'ClimateDT Evaluation'
+project = 'ClimateDT Evaluation Charts'
 author = 'ECMWF'
 copyright = f'{date.today().year}, {author}'
 release = '0.1.0'
